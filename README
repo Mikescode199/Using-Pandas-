@@ -1,0 +1,12 @@
+Hello again!
+
+In this project, You are going to use PANDAS
+
+You'll program a Programmer's school where you can add Name, age, Gender and  Classroom
+
+Requirements:
+
+Using Pandas
+
+Let's imagine that you are an administrator and you need adding students, the program allows to add students and it shows their information in this order 
+Classrom, Gender, Name, Age 
